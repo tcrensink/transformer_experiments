@@ -1,1 +1,1 @@
-This project is for building/exploring decoder-only transformer architecture.
+A project for building/exploring transformer architectures.
